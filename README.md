@@ -1,5 +1,5 @@
 # automation_assignment
-This is a automation assignment as a part of CodeOfMobile process  
+This is a automation assignment as a part of CodeMyMobile process  
 This assignment comprises of automation scripts for following modules:  
   Signup  
   Signin  
